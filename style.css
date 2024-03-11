@@ -1,0 +1,33 @@
+ /* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+p {
+  color: black;
+  font-style: italic;
+}
+h1 {
+  color: #c007a7;
+  font-weight: bold;
+  font-style:italic;
+  font-family:fantasy;
+  text-shadow: 3px 3px #000000;
+}
+
+h3 {
+  color: #1010e5;
+  font-weight: bold;
+  text-decoration: underline;
+  font-family: Helvetica, sans-serif;
+}
+
+img{
+  height: 300px;
+  width: 300px;
+  border:dashed;
+}
+body{
+  background-color: #ffbdd3;
+}
+h2{
+  font-style: italic;
+  text-decoration: underline;
